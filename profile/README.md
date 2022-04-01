@@ -3,9 +3,9 @@ Solidity CheckUp is an agency specializing in blockchain technology solutions, a
 
 Services we are providing:
 
- °Full Smart Contract security audit.
+ °Full Smart Contract security audit: We check the code line by line on both technical issues and logic / economy model vulnerabilities. We then provide you with a report describing all the identified risks, issues and vulnerabilities and recommending that they be addressed. 
 
- °Consulting.
+ °Consulting: Development & marketing consulting
 
 
 
