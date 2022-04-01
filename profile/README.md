@@ -5,7 +5,7 @@ Services we are providing:
 
  °Full Smart Contract security audit.
 
- °Post Audit Marketing.
+ °Consulting.
 
 
 
