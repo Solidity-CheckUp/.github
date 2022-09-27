@@ -14,6 +14,8 @@ Services we are providing:
   Full Smart Contract security audit: We check the code line by line on both technical issues and logic / economy model vulnerabilities. We then provide you with a report describing all the identified risks, issues and vulnerabilities and recommending that they be addressed. 
 
   Consulting: Development & marketing consulting
+  
+  KYC: Know Your Customer (KYC) requirements are designed to defend monetary establishments from fraud, corruption, money laundering and terrorist activities.
 
 
 
